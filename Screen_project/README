@@ -1,0 +1,35 @@
+Identification :
+
+1. screen_login : 
+
+  Une fois le logiciel démarré, l'utilisateur se retrouve sur cette interface. 
+Il peut s'identifier en tant qu'admin ou bien en tant que personne lambda.
+La session Lambda est celle mise pour la borne de la cantine (anonymisation).
+La session Admin est utilisée par l'administrateur pour avoir accès aux résultats générés par la base de données.
+
+Admin:
+
+1. screen_admin_page/screen_admin_selection_gachis_jour/screen_admin_selection_gachis_jour_Diagrammes : 
+  
+  En se connectant en tant qu'Admin, l'utilisateur est redirigé sur cette page. Il peut donc
+voir rapidement les graphiques d'un jour sélectionné avec le calendrier et les graphiques d'entrée, plat et dessert. 
+Il peut voir la quantité de chaque aliment et son gâchis.
+Sinon il peut ajouter les menus des jours qui suivent en passant par le bouton Menu,
+ou bien voir les résultats par mois avec le bouton tableau.
+
+2. screen_admin_ajout_menu_jour/screen_admin_ajout_menu_jour_2 :
+
+  L'Admin arrivant sur cette page peut sélectionner le jour où il souhaite créer/modifier le menu.
+Il choisit ensuite les entrées, plats et desserts disponible ce jour-là.
+Il peut aussi voir les menus de chaque jour grâce au bouton menu du jour.
+  
+3. screen_admin_affichage_statistique_gachis_mois/screen_admin_affichage_statistique_gachis_mois_diagrammes :
+
+  L'Admin peut sélectionner un mois et voir le gâchis de tous les aliments que la cantine a pu servir.
+Il peut donc voir le pourcentage de gâchis. Des graphiques sont mis à disposition pour avoir une meilleure vision des résultats.
+
+Lambda :
+
+1.screen_lambda_selection_plats :
+
+  Les étudiants peuvent sélectionner les plats qu'ils ont choisis et sélectionner la quantité gaché.
