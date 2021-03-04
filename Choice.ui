@@ -31,7 +31,7 @@
    <property name="text">
     <string>Sélection</string>
    </property>
-  </widget>
+  </widget>c
   <widget class="QPushButton" name="EnterButton">
    <property name="geometry">
     <rect>
