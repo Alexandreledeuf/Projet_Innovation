@@ -351,7 +351,7 @@ class Admin(QDialog):
                 g1 = 20
                 r2 = 222
                 b2 = 41
-                g2 = 22
+                g2 = 22 
 
                 color1 = (r1, g1, b1)
                 color2 = (r2, g2, b2)
