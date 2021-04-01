@@ -84,7 +84,7 @@
    <property name="geometry">
     <rect>
      <x>610</x>
-     <y>30</y>
+     <y>20</y>
      <width>121</width>
      <height>51</height>
     </rect>
@@ -541,6 +541,22 @@
    </property>
    <property name="text">
     <string>Tableau</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Stockbutton">
+   <property name="geometry">
+    <rect>
+     <x>610</x>
+     <y>90</y>
+     <width>121</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(167, 168, 167);color:rgb(53,53,53);font-size:11pt</string>
+   </property>
+   <property name="text">
+    <string>Stock</string>
    </property>
   </widget>
  </widget>
